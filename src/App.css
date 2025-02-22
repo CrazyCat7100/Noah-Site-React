@@ -148,9 +148,11 @@ main {
   display: flex;
   overflow: hidden;
   margin: 5px -5px 5px 0px;
-  /* flex-direction: column; */
+  flex-direction: column;
   margin-top: 10px;
 }
+
+
 
 .project-wrapper-major {
   position: relative;
@@ -398,7 +400,3 @@ footer a {
   overflow: hidden;
   margin: 0 -5px;
 }
-
-
-
-

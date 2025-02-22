@@ -1,6 +1,7 @@
 const projectData = {
     majorProjects: [
-      { id: 1, name: "LightWave", image: "/src/assets/lightwave.png", link: "/lightwave", type: "major" }
+      { id: 1, name: "LightWave", image: "/src/assets/lightwave.png", link: "/lightwave", type: "major" },
+      
     ],
     secondaryProjects: [
       { id: 2, name: "G.I. Joe: War On Cobra", image: "/src/assets/joesplash.png", link: "/gijoe", type: "major" },
@@ -12,7 +13,8 @@ const projectData = {
     ],
     demoProjects: [
       { id: 4, name: "Shields Demo Project", image: "/src/assets/shieldsSplash.png", link: "/shields", type: "demo" },
-      { id: 5, name: "Dice Demo Project", image: "/src/assets/dicegame.jpg", link: "/dice", type: "demo" }
+      { id: 5, name: "Dice Demo Project", image: "/src/assets/dicegame.jpg", link: "/dice", type: "demo" },
+      
     ]
   };
   
